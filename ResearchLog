@@ -1,0 +1,30 @@
+
+
+------------------------ PROGRESS REPORT ------------------------
+Week: 13th Jan 2025
+Aim to upload deliverables by 15th Jan 2025
+
+Results:
+
+1. Explored the structure of MWNS dataset
+    Platform: RStudio IDE
+2. Using R, iteratively created png images for each parameter for each river.
+    Image: MWNS-CHEMMA/dataExploration/image
+    Script: dataExploration/Rscript/MWNSdataExploration.R
+    Total number of images: 598
+3. Located Monitoring Station through coordinates. See MWNS-CHEMMA/dataExploration/image/GIS/MWNS_mntStation.PNG
+    Platform: QGIS
+
+Findings:
+
+1. Inital RStudio IDE setup took some time.
+2. It seems there was probably a major, serious pollution event for Big Creek in the late 2019, where several parameters show abrupt concentration increases （i.e. silver, cadnium, nickle, etc)
+3. Not all parameters are monitored throughout the duration of the program. Some watershed has very few datapoints (e.g. temperature for Larches Creek)
+
+Next:
+
+1. Finish data exploration (MWNSdataExploration.R)
+2. Find out the if seasonal trends exist, if so how
+3. Find out what's going on with the concentration spike for Big Creek (late 2019 event)
+4. Explore statistics for each river
+5. Explore if correlations exist for any pair of rivers
