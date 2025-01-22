@@ -1,10 +1,13 @@
 
 
------------------------- RESEARCH PROGRESS REPORT ------------------------
-------------------------             1            ------------------------
+------------------------------------------------ RESEARCH PROGRESS REPORT 1 ------------------------------------------------
 
-        Week: 13th Jan 2025
+
+        Week: 3
+        Commit: 18th Jan 2025
         Aim to upload deliverables by 15th Jan 2025
+
+        "MWNS KNOW YOUR DATA"
 
 Results:
 
@@ -31,3 +34,19 @@ Next:
 4. Explore statistics for each river
 5. Explore if correlations exist for any pair of rivers
 6. Probe concentration trends for parameters that are likely 
+
+        Week 3
+        Commit: 22nd Jan 2025
+        Update before meeting with advisor
+
+        "SEASONAL TREND"
+
+Results:
+
+1. Produced on jpeg image that shows variation of all parameters of all rivers throughtout the seasonal cycle. See seasonal_trends.png
+
+Findings:
+
+1. KKUT (potassium), NNOTUR (nitrate total), ZIUT (zinc), VVUT (vanadium), TIUT (titanium), CAUT (calcium), CLIDUR (chloride) have higher varaition in summer.
+2. River waters were harder as HARDT (hardness) for some rivers
+3. Generally, rivers are varying in turbidity during winter-spring phase, i.e. some rivers might be more turbid during winter-spring phase (higher variation in TRUB)
